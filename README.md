@@ -16,4 +16,4 @@ Certifications: UiPath RPA Associate Developer, Anthropic (Claude 101, Claude Co
 
 Trilingual: English, Spanish, Portuguese.
 
-[LinkedIn](https://linkedin.com/in/tony-kasathsko-11a290a)
+[LinkedIn](https://linkedin.com/in/tony-kasathsko)
