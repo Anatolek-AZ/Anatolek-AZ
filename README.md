@@ -23,9 +23,9 @@ From 4:30 to 6:00 most mornings I build my own projects. Most of the contributio
 
 - **Felipe & Macio**: a children's book series my family publishes at [maciostravels.com](https://www.maciostravels.com). Four storybooks, each in English, Spanish and Portuguese, built from our real family trip with AI-generated art. AI autonomous agents run the marketing across Pinterest, Facebook, BookBub Ads and Amazon Ads, and campaign analytics are optimized through skill files I write. On Pinterest, monthly views went from 100K to 900K+ in 2 months. I'm now building the series' companion app myself in Claude Code inside VS Code.
 - **[PastInMini](https://www.youtube.com/@pastinmini)**: a short-form history channel. One n8n workflow chains four AI models per video. Creatomate assembles each video and Blotato publishes it to five platforms. It has run hands-off since June 2025. AI autonomous agents on top pull analytics across the platforms and optimize for engagement.
-- **A fleet of AI autonomous agents** that run on custom skill files I write.
+- **A fleet of AI autonomous agents on Grok Bot** that run on custom skill files I write.
 
-Tools I use hands-on: Power Automate Desktop and Cloud, Microsoft Copilot agents, UiPath, n8n, Claude Code, Claude Cowork and OpenAI Codex.
+Tools I use hands-on: Power Automate Desktop and Cloud, Microsoft Copilot agents, UiPath, n8n, Claude Code, Claude Cowork, OpenAI Codex and Grok Bot.
 
 ## Background
 
